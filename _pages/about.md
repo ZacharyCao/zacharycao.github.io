@@ -28,7 +28,7 @@ My research interests lie at the intersection of information system and operatio
 -->
 
 # 📝 Publications 
-Nothing
+Nothing.
 
 # 🎖 Honors and Awards
 - *2019.10* National Scholarship (Top 1%)
