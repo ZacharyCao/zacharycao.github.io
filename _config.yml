@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhiyuan Cao 曹质远"
+  name             : "Zhiyuan Cao<br>曹质远"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tianjin University"
   location         : "Tianjin, China"
