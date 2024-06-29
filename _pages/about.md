@@ -27,10 +27,10 @@ My research interests lie at the intersection of information system and operatio
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📝 Publications 
+# 📝 Publications
 Nothing.
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2019.10* National Scholarship (Top 1%)
 - *2019.10* Tianjin University Student Science and Technology Talent Award (Top 1%)
 - *2021.10* College of Management and Economics Exemplary Award (Top 1%)
