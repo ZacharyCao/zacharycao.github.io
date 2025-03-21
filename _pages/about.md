@@ -50,4 +50,3 @@ Nothing.
 
 # 💻 Internships
 - *2019.10 - 2020.02* Supply Chain Intern, Caterpillar (Tianjin) Co., Ltd.
-- 
