@@ -50,5 +50,3 @@ Nothing.
 
 # 💻 Internships
 - *2019.10 - 2020.02* Supply Chain Intern, Caterpillar (Tianjin) Co., Ltd.
-
-# CV(https://github.com/ZacharyCao/zacharycao.github.io/blob/main/assets/CV.pdf)
