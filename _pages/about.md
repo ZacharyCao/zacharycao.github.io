@@ -40,7 +40,7 @@ Nothing.
 # 📖 Educations
 - *2018.09 - 2020.06* B.M. in Industrial Engineering, Tianjin University
 - *2020.08 - 2021.07* Volunteer high school mathematics teacher, Gansu
-- *2021.09 - 2024.07(now)* Ph.D. Candidate in Management Science and Engineering, Integrated Master's and Ph.D. Program, Tianjin University
+- *2021.09 - present* Ph.D. Candidate in Management Science and Engineering, Integrated Master's and Ph.D. Program, Tianjin University
 
 <!--
 # 💬 Invited Talks
