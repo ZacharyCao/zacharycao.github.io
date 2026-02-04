@@ -27,7 +27,7 @@ My research interests lie at the intersection of information system and operatio
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📝 Publications
+# 📝 Research
 Nothing.
 
 # 🏆 Honors and Awards
