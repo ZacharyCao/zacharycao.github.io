@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate in Management Science and Engineering, currently in the third year of an integrated Master's and PhD program. I graduated from Tianjin University in 2020 with a Bachelor's degree in Industrial Engineering.
+I am a PhD candidate in Management Science and Engineering, currently in the fifth year of an integrated Master's and PhD program. I graduated from Tianjin University in 2020 with a Bachelor's degree in Industrial Engineering.
 
-My research interests lie at the intersection of information system and operations management. My current research focuses on (i) green supply chain management under asymmetric information, (ii) regulation of online reviews, and (iii) digital privacy.
+My research interests lie at the intersection of information system and operations management. My current research focuses on (i) Corporate Social Responsibility, (ii) AI in Operation Management, and (iii) Digital Privacy.
 
 <!--
 # 🔥 News
