@@ -39,6 +39,7 @@ My research interests lie at the intersection of information system and operatio
 
 # 🏆 Honors and Awards
 - *2019.10* National Scholarship (Top 1%)
+- *2025.10* Tianjin Outstanding Student Leader (Top 1%)
 - *2019.10* Tianjin University Student Science and Technology Talent Award (Top 1%)
 - *2021.10* College of Management and Economics Exemplary Award (Top 1%)
 - *2021.10* First-Class Graduate Academic Scholarship (Top 10%)
