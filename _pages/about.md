@@ -32,6 +32,10 @@ My research interests lie at the intersection of information system and operatio
 - Green Upgrades Under Emission Cap Regulaion (with Jianxiong Zhang and Zhaofang Mao)
 - Regulation of Strategic Greenwashing (with Jianxiong Zhang and Zhaofang Mao)
 - Optimal Platform Regulation for Fake Reviews (with Xiaohang Yue, Xiaopei Zhao, and Jianxiong Zhang)
+## Conferences
+- POMS International Conference in China (2023, 2025)
+- CSAMSE Annual Conference (2024)
+- European Conference on Operational Research (2025)
 
 # 🏆 Honors and Awards
 - *2019.10* National Scholarship (Top 1%)
