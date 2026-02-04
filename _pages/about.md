@@ -29,9 +29,9 @@ My research interests lie at the intersection of information system and operatio
 
 # 📝 Research
 ## Working Papers
-- Green Upgrades Under Emission Cap Regulaion
-- Regulation of Strategic Greenwashing
-- Optimal Platform Regulation for Fake Reviews
+- Green Upgrades Under Emission Cap Regulaion (with Jianxiong Zhang and Zhaofang Mao)
+- Regulation of Strategic Greenwashing (with Jianxiong Zhang and Zhaofang Mao)
+- Optimal Platform Regulation for Fake Reviews (with Xiaohang Yue, Xiaopei Zhao, and Jianxiong Zhang)
 
 # 🏆 Honors and Awards
 - *2019.10* National Scholarship (Top 1%)
