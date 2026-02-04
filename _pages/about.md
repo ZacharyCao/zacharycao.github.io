@@ -28,7 +28,10 @@ My research interests lie at the intersection of information system and operatio
 -->
 
 # 📝 Research
-Nothing.
+## Working Papers
+- Green Upgrades Under Emission Cap Regulaion
+- Regulation of Strategic Greenwashing
+- Optimal Platform Regulation for Fake Reviews
 
 # 🏆 Honors and Awards
 - *2019.10* National Scholarship (Top 1%)
